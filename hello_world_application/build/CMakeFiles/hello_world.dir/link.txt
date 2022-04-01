@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/hello_world.dir/hello_world.cpp.o  -o hello_world  /home/olga/tp_labs/lab03/formatter_ex_lib/build/libformatter_ex.a /home/olga/tp_labs/lab03/formatter_lib/build/libformatter.a 

@@ -1,0 +1,3 @@
+/home/olga/tp_labs/lab03/solver_lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/olga/tp_labs/lab03/solver_lib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/olga/tp_labs/lab03/solver_lib/cmake-build-debug/CMakeFiles/solver.dir

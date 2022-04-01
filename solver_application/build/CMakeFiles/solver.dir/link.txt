@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/solver.dir/equation.cpp.o  -o solver  /home/olga/tp_labs/lab03/formatter_ex_lib/build/libformatter_ex.a /home/olga/tp_labs/lab03/formatter_lib/build/libformatter.a /home/olga/tp_labs/lab03/solver_lib/build/libsolver.a -lm 
