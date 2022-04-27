@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.4)
+#[[cmake_minimum_required(VERSION 3.4)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -33,4 +33,4 @@ install(TARGETS print
 )
 
 install(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/include/ DESTINATION include)
-install(EXPORT print-config DESTINATION cmake)
+install(EXPORT print-config DESTINATION cmake)]]
