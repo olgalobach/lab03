@@ -19,3 +19,5 @@ jobs:
         run: |
           cmake -H. -B_build
           cmake --build _build
+      - name: run
+        run: /hello_world_application.cpp
