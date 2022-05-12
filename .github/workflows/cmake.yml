@@ -17,5 +17,8 @@ jobs:
       - name: build
         shell: bash
         run: |
-          cmake -H. -B_build
-          cmake --build _build
+          cmake CMakeLists.txt
+          #cmake -H. -B_build
+          #cmake --build _build
+          cmake --build
+          ./configure --enable-gcov && make && make check
